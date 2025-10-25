@@ -8,43 +8,48 @@
 
 
 <url>
-  <loc>https://novawerkepage.netlify.app/</loc>
-  <lastmod>2025-10-15T23:07:44+00:00</lastmod>
+  <loc>https://novawerke.ai/</loc>
+  <lastmod>2025-10-23T21:20:38+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://novawerkepage.netlify.app/magic-glove</loc>
-  <lastmod>2025-10-15T23:07:44+00:00</lastmod>
+  <loc>https://novawerke.ai/magic-glove.html</loc>
+  <lastmod>2025-10-23T21:20:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://novawerkepage.netlify.app/nelson</loc>
-  <lastmod>2025-10-15T23:07:44+00:00</lastmod>
+  <loc>https://novawerke.ai/nelson.html</loc>
+  <lastmod>2025-10-23T21:20:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://novawerkepage.netlify.app/agentics</loc>
-  <lastmod>2025-10-15T23:07:44+00:00</lastmod>
+  <loc>https://novawerke.ai/index.html</loc>
+  <lastmod>2025-10-23T21:20:38+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://novawerkepage.netlify.app/magic-glove-1pager.pdf</loc>
-  <lastmod>2025-10-15T23:07:44+00:00</lastmod>
+  <loc>https://novawerke.ai/agentics.html</loc>
+  <lastmod>2025-10-23T21:20:38+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://novawerkepage.netlify.app/contact</loc>
-  <lastmod>2025-10-15T23:07:44+00:00</lastmod>
+  <loc>https://novawerke.ai/magic-glove-1pager.pdf</loc>
+  <lastmod>2025-10-23T21:20:38+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://novawerkepage.netlify.app/nelson-1pager.pdf</loc>
-  <lastmod>2025-10-15T23:07:44+00:00</lastmod>
+  <loc>https://novawerke.ai/contact.html</loc>
+  <lastmod>2025-10-23T21:20:38+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://novawerkepage.netlify.app/agentics-1pager.pdf</loc>
-  <lastmod>2025-10-15T23:07:44+00:00</lastmod>
+  <loc>https://novawerke.ai/nelson-1pager.pdf</loc>
+  <lastmod>2025-10-23T21:20:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://novawerke.ai/agentics-1pager.pdf</loc>
+  <lastmod>2025-10-23T21:20:38+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 
